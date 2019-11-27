@@ -1,21 +1,21 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\colby\\source\\repos\\RazorPagesMovie\\RazorPagesMovie.csproj": {}
+    "C:\\IHCC\\Advanced-C-Sharp\\RazorPagesMovie\\RazorPagesMovie.csproj": {}
   },
   "projects": {
-    "C:\\Users\\colby\\source\\repos\\RazorPagesMovie\\RazorPagesMovie.csproj": {
+    "C:\\IHCC\\Advanced-C-Sharp\\RazorPagesMovie\\RazorPagesMovie.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\colby\\source\\repos\\RazorPagesMovie\\RazorPagesMovie.csproj",
+        "projectUniqueName": "C:\\IHCC\\Advanced-C-Sharp\\RazorPagesMovie\\RazorPagesMovie.csproj",
         "projectName": "RazorPagesMovie",
-        "projectPath": "C:\\Users\\colby\\source\\repos\\RazorPagesMovie\\RazorPagesMovie.csproj",
+        "projectPath": "C:\\IHCC\\Advanced-C-Sharp\\RazorPagesMovie\\RazorPagesMovie.csproj",
         "packagesPath": "C:\\Users\\colby\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\colby\\source\\repos\\RazorPagesMovie\\obj\\",
+        "outputPath": "C:\\IHCC\\Advanced-C-Sharp\\RazorPagesMovie\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\PROGRAM FILES\\DOTNET\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
           "C:\\Users\\colby\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -82,7 +82,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\PROGRAM FILES\\DOTNET\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
