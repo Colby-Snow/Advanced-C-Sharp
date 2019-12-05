@@ -71,3 +71,8 @@ C:\Advanced-C-Sharp\ASP.NET Core Razor Pages with EF Core\ContosoUniversity\obj\
 C:\Advanced-C-Sharp\ASP.NET Core Razor Pages with EF Core\ContosoUniversity\obj\Debug\netcoreapp2.1\Razor\Pages\Students\Details.cshtml.g.cs
 C:\Advanced-C-Sharp\ASP.NET Core Razor Pages with EF Core\ContosoUniversity\obj\Debug\netcoreapp2.1\Razor\Pages\Students\Edit.cshtml.g.cs
 C:\Advanced-C-Sharp\ASP.NET Core Razor Pages with EF Core\ContosoUniversity\obj\Debug\netcoreapp2.1\Razor\Pages\Students\Index.cshtml.g.cs
+C:\IHCC\Advanced-C-Sharp\ASP.NET Core Razor Pages with EF Core\ContosoUniversity\obj\Debug\netcoreapp2.1\Razor\Pages\Students\Create.cshtml.g.cs
+C:\IHCC\Advanced-C-Sharp\ASP.NET Core Razor Pages with EF Core\ContosoUniversity\obj\Debug\netcoreapp2.1\Razor\Pages\Students\Delete.cshtml.g.cs
+C:\IHCC\Advanced-C-Sharp\ASP.NET Core Razor Pages with EF Core\ContosoUniversity\obj\Debug\netcoreapp2.1\Razor\Pages\Students\Details.cshtml.g.cs
+C:\IHCC\Advanced-C-Sharp\ASP.NET Core Razor Pages with EF Core\ContosoUniversity\obj\Debug\netcoreapp2.1\Razor\Pages\Students\Edit.cshtml.g.cs
+C:\IHCC\Advanced-C-Sharp\ASP.NET Core Razor Pages with EF Core\ContosoUniversity\obj\Debug\netcoreapp2.1\Razor\Pages\Students\Index.cshtml.g.cs
