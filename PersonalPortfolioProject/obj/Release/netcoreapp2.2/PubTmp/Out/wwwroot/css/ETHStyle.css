@@ -1,0 +1,12 @@
+﻿.mainContent{
+    overflow: auto;
+    flex-wrap: nowrap;
+    display: flex;
+}
+#article{
+    
+}
+img{
+    width: 60%;
+    height: 50%;
+}

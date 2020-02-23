@@ -1,0 +1,16 @@
+C:\Advanced-C-Sharp\ASP.NET Core Web API with MongoDB\BooksApi\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Advanced-C-Sharp\ASP.NET Core Web API with MongoDB\BooksApi\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Advanced-C-Sharp\ASP.NET Core Web API with MongoDB\BooksApi\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Advanced-C-Sharp\ASP.NET Core Web API with MongoDB\BooksApi\bin\Debug\netcoreapp2.2\BooksApi.deps.json
+C:\Advanced-C-Sharp\ASP.NET Core Web API with MongoDB\BooksApi\bin\Debug\netcoreapp2.2\BooksApi.runtimeconfig.json
+C:\Advanced-C-Sharp\ASP.NET Core Web API with MongoDB\BooksApi\bin\Debug\netcoreapp2.2\BooksApi.runtimeconfig.dev.json
+C:\Advanced-C-Sharp\ASP.NET Core Web API with MongoDB\BooksApi\bin\Debug\netcoreapp2.2\BooksApi.dll
+C:\Advanced-C-Sharp\ASP.NET Core Web API with MongoDB\BooksApi\obj\Debug\netcoreapp2.2\BooksApi.csprojAssemblyReference.cache
+C:\Advanced-C-Sharp\ASP.NET Core Web API with MongoDB\BooksApi\obj\Debug\netcoreapp2.2\BooksApi.RazorAssemblyInfo.cache
+C:\Advanced-C-Sharp\ASP.NET Core Web API with MongoDB\BooksApi\obj\Debug\netcoreapp2.2\BooksApi.RazorAssemblyInfo.cs
+C:\Advanced-C-Sharp\ASP.NET Core Web API with MongoDB\BooksApi\obj\Debug\netcoreapp2.2\BooksApi.AssemblyInfoInputs.cache
+C:\Advanced-C-Sharp\ASP.NET Core Web API with MongoDB\BooksApi\obj\Debug\netcoreapp2.2\BooksApi.AssemblyInfo.cs
+C:\Advanced-C-Sharp\ASP.NET Core Web API with MongoDB\BooksApi\obj\Debug\netcoreapp2.2\BooksApi.RazorTargetAssemblyInfo.cache
+C:\Advanced-C-Sharp\ASP.NET Core Web API with MongoDB\BooksApi\bin\Debug\netcoreapp2.2\BooksApi.pdb
+C:\Advanced-C-Sharp\ASP.NET Core Web API with MongoDB\BooksApi\obj\Debug\netcoreapp2.2\BooksApi.dll
+C:\Advanced-C-Sharp\ASP.NET Core Web API with MongoDB\BooksApi\obj\Debug\netcoreapp2.2\BooksApi.pdb

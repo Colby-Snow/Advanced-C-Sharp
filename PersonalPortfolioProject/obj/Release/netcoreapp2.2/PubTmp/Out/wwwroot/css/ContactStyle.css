@@ -1,0 +1,23 @@
+﻿iframe {
+	width: 47vw;
+	height: 50vw;
+}
+
+#doc {
+	margin: 50px;
+}
+
+form {
+	width: 500px;
+}
+
+label {
+	display: flex;
+	justify-content: flex-start;
+	text-align: left;
+	width: 400px;
+	line-height: 12px;
+	padding: 5px;
+	margin: 5px;
+	font-size: 12px;
+}

@@ -1,0 +1,10 @@
+﻿#HorizontalList li{
+    list-style-type: none;
+    float: left;
+    margin: .8vw;
+}
+#content {
+    overflow: auto;
+    flex-wrap: nowrap;
+    display: flex;
+}

@@ -1,0 +1,50 @@
+﻿/*colors
+    462221 dark red/brown
+    f3f4f2 white
+    85796e brownish grey
+    A07979 light red
+    AC9CA9 light purple
+*/
+body {
+    background-color: #462221;
+}
+
+h1,h2, p, li{
+    color: #F3F4F2;
+}
+#navbar {
+    background-color: #f3f4f2 !important;
+    border-bottom-color: #f3f4f2 !important;
+}
+a:visited {
+    color: #462221 !important;
+}
+
+#article {
+    background-color: #f3f4f2;
+    border-radius: 10px;
+    padding: 1vw;
+    margin: 1vw;
+    display: inline-block;
+}
+#article p {
+    color: #85796E;
+}
+#article h2 {
+    color: #462221;
+}
+#article li{
+    color: #85796E;
+}
+img{
+    padding: 1vw;
+    float: right;
+}
+
+#content h1 {
+    font-weight: 500;
+}
+
+footer{
+    background-color: #f3f4f2;
+}
